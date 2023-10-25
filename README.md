@@ -1,5 +1,5 @@
 ### 👋 Hi there,
-I'm Billel Benoudjit, 23 years old.
+I'm Billel Benoudjit, 24 years old.
 
 - 👀 I’m a Data Science enthusiast with a special interest in Natural Language Processing.
 - 🌱 I’m currently learning working on expanding my knowledge in both Machine Learning and Deep Learning.
