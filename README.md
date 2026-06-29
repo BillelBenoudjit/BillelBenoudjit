@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Billel Benoudjit**, 25 years old, a passionate **Data Engineer** based in Paris.
+I'm **Billel Benoudjit**, **Data Engineer** based in Helsinki, Finland.
 
 - 🔭 Currently working as a Data Engineer with a focus on data-driven solutions
 - 🌱 Expanding my knowledge in **Distributed Computing** and large-scale data systems
